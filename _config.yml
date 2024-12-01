@@ -5,8 +5,8 @@ permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://freedown.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "assets/img/icons/IMG_20241004_205738.jpg"
-logo-icon: "/assets/img/branding/logo.jpg"
-logo-icon-SEO: "/assets/img/branding/logo.jpg" # must be a non SVG file
+logo-icon: "/assets/img/branding/alogo.jpg"
+logo-icon-SEO: "/assets/img/branding/alogo.jpg" # must be a non SVG file
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
