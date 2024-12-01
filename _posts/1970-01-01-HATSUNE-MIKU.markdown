@@ -4,7 +4,7 @@ read_time: true
 show_date: false
 title:  HATSUNE MIKU
 date: 2007-08-31 00:00:00 -0080  
-description:vocaloid music
+description: vocaloid music
 img: assets/img/HATSUNE_MIKU.mpg
 tags: [Songs]
 author: freedownm
