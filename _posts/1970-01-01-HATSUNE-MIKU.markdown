@@ -11,7 +11,7 @@ author: freedownm
 github:  freedownm/freedownm.github.io/
 mathjax: yes
 ---
-<a href="files/HATSUNE_MIKU.zip">Download here</a>
+<a href="/files/HATSUNE_MIKU.zip">Download here</a>
 <!--请直接替换the_geometers_sketvhpad-->
 
 
