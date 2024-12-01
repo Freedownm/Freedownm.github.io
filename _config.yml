@@ -1,6 +1,6 @@
 # Site settings
 title: The Free Fownload
-description: ':Make people get knowledge easier' # this means to ignore newlines until "baseurl:"
+description: 'Make people get knowledge easier' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://freedown.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -26,7 +26,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: The Fd # add your name
 author-pic: 
-about-author:This is a project which is built by a group of middle school students who wants to let knowledge share with everyone
+about-author: This is a project which is built by a group of middle school students who wants to let knowledge share with everyone
 
 # Contact links
 email: freedownm@outlook.com # Add your Email address
